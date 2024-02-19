@@ -1,0 +1,3 @@
+nama : 
+hobby :
+hewan kesukaan :
